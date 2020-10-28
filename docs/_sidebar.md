@@ -1,10 +1,10 @@
 <!-- docs/_sidebar.md -->
 * [首页](/)
-* [指南](zh-cn/guide)
+* [法律法规](/law)
 * [关于](/about)
 - **[Web](/web/)**
 * [信息搜集](/web/信息搜集)
-* [SQL注入](/)
+* [SQL注入](/web/sqli)
 * [SQL注入绕过](/web/sqli-bypass)
 * [文件上传](/)
 * [文件包含](/)
