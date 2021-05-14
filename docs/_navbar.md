@@ -4,7 +4,7 @@
 * [入门教程](/getting-started/)
 * [神兵利器](/tools/)
 * [CTF知识点](/ctf/) 
-* [红队技术]()
+* [红队技术](/redteam/)
 * [安全建设]()
 * [应急响应](/)
 * [代码审计](/code-audit/)
@@ -20,4 +20,5 @@
 * 专题
   * [勒索软件](/ransomware/)
   * [等级保护]()
+  * [僵尸网络](/subjects/botnet/)
 

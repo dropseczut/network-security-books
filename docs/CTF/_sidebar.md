@@ -1,35 +1,4 @@
-<!-- docs/_sidebar.md -->
-- **入门111**
-* [法律法规](/law)
-* [关于](/about)
-- **CTF**
-- **WINDOWS**
-* [本地权限提升]()
-* [域渗透]()
-* [NTLM]()
-* [凭证窃取]()
-- **LINUX**
-* [权限提升]()
-- **移动应用渗透**
-- **渗透**
-* [21-FTP]()
-* [22-SSH/SFTP]()
-* [23-Telnet]()
-* [43-WHOIS]()
-* [53-DNS]()
-* [80,443-Web]()
-* [137,138,139-NetBios]()
-* [139,445-SMB]()
-* [1433-MSSQL]()
-* [1723-PPTP]()
-* [3306-MYSQL]()
-* [3389-RDP]()
-* [6379-REDIS]()
-* [9100-Raw Printing]()
-* [9200-Elasticsearch]()
-* [11211-Memcache]()
-* [27017-MongoDB]()
-- **网站渗透**
+- **网站安全 Web**
 * [验证码绕过]()
 * [点击劫持]()
 * [命令执行]()
@@ -44,8 +13,6 @@
     * [XPATH注入]()
     * [XXE-XML外部实体注入]()
 * [XSS]()
-- **物理渗透**
-- **[Web](/web/)**
 * [信息搜集](/web/信息搜集)
 * [SQL注入](/web/sqli)
 * [SQL注入绕过](/web/sqli-bypass)
@@ -91,11 +58,7 @@
 * [CBC字节翻转攻击](/)
 * [Padding Oracle Attack](/)
 * [ECB](/)
-- **Mobile**
-- **Reverse**
-- **Pwn**
+- **移动安全 Mobile**
+- **逆向工程 Reverse**
+- **溢出攻击 Pwn**
 - **工具**
-* [Burp Suite](/)
-* [SQLMap](/)
-- **Links**
-- [![Github](assets/img/github.svg)Github](https://github.com/)
