@@ -156,11 +156,12 @@ print(m)
 ```python
 import gmpy2
 
+e = 3
 i = 0
 while 1:
-    tmp_m = gmpy2.cbrt(c + i * N)
-    if(tmp_m.is_integer()):
-        print(tmp_m)
+    tmp = gmpy2.iroot(c + i * N, e)
+    if(tmp[1] == 1):
+        print(long_to_bytes(tmp[0]))
         break
     i = i + 1
 ```
