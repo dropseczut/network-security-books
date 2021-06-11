@@ -2,8 +2,8 @@
 
 ## 车联网
 
--  2021年1月22日 [中国智能网联汽车产业创新联盟](http://www.caicv.org.cn/)[《智能网联汽车预期功能安全前沿技术研究报告》](https://index.cvvd.org.cn/cicv/file/20210122105628478/%E6%99%BA%E8%83%BD%E7%BD%91%E8%81%94%E6%B1%BD%E8%BD%A6%E9%A2%84%E6%9C%9F%E5%8A%9F%E8%83%BD%E5%AE%89%E5%85%A8%E5%89%8D%E6%B2%BF%E6%8A%80%E6%9C%AF%E7%A0%94%E7%A9%B6%E6%8A%A5%E5%91%8A.pdf)
-- 2020年12月8日 [中国软件评测中心](https://www.cstc.org.cn/)[《智能网联汽车安全渗透白皮书（2020年）》](https://www.cstc.org.cn/zhinengwanglianqicheanquanshentoubaipishu.pdf)
+-  2021年1月22日 [中国智能网联汽车产业创新联盟](http://www.caicv.org.cn/) [《智能网联汽车预期功能安全前沿技术研究报告》](https://index.cvvd.org.cn/cicv/file/20210122105628478/%E6%99%BA%E8%83%BD%E7%BD%91%E8%81%94%E6%B1%BD%E8%BD%A6%E9%A2%84%E6%9C%9F%E5%8A%9F%E8%83%BD%E5%AE%89%E5%85%A8%E5%89%8D%E6%B2%BF%E6%8A%80%E6%9C%AF%E7%A0%94%E7%A9%B6%E6%8A%A5%E5%91%8A.pdf)
+- 2020年12月8日 [中国软件评测中心](https://www.cstc.org.cn/) [《智能网联汽车安全渗透白皮书（2020年）》](https://www.cstc.org.cn/zhinengwanglianqicheanquanshentoubaipishu.pdf)
 
 - 2020年3月30日 [腾讯科恩实验室](https://keenlab.tencent.com/zh/) [《梅赛德斯-奔驰汽车信息安全研究报告》](https://keenlab.tencent.com/en/whitepapers/Mercedes_Benz_Security_Research_Report_Final.pdf)
 - 2019年12月 [中国智能网联汽车产业创新联盟](http://www.caicv.org.cn/)《智能网联汽车信息安全评测白皮书》

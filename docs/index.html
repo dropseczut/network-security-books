@@ -8,6 +8,9 @@
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <!-- Theme: Simple (latest v0.x.x) -->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0.8.4/dist/css/theme-simple-dark.css">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.css" />
+  <!-- Custom theme styles -->
+  <link rel="stylesheet" href="theme-custom.css">
 </head>
 <body>
   <div id="app"></div>
@@ -19,6 +22,7 @@
       loadSidebar: true,
       // 配置导航，默认加载文件_navbar.md
       loadNavbar: true,
+      themeColor: '#3F51B5',
       subMaxLevel: 2,
       // 最大支持渲染的标题层级
       maxLevel: 3,
@@ -42,7 +46,11 @@
   <script src="//cdn.jsdelivr.net/npm/prismjs@1.22.0/components/prism-bash.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/prismjs@1.22.0/components/prism-php.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/prismjs@1.22.0/components/prism-git.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/prismjs@1.23.0/components/prism-python.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/prismjs@1.22.0/components/prism-sql.js"></script>
   <script src="https://unpkg.com/docsify-copy-code@2"></script>
+  <!-- CDN files for docsify-katex -->
+  <script src="//cdn.jsdelivr.net/npm/docsify-katex@latest/dist/docsify-katex.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
 </body>
 </html>
