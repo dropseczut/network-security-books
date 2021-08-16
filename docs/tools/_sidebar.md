@@ -11,7 +11,7 @@
 * [子域名]()
 * [邮箱]()   
 - **后渗透**
-* [Cobalt Strike]()
+* [Cobalt Strike](/tools/CobaltStrike)
 * [Meterpreter]()
 * [Powershell  Empire]()
 * [Koadic]()
