@@ -1,6 +1,7 @@
 * [前言](/getting-started/)
 - **基础知识**
-* 虚拟机
+* [HTTP协议](/getting-started/basic/HTTP)
+* [虚拟机](/getting-started/basic/VM)
 * 操作系统基础
   - Linux
   - Windows
