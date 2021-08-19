@@ -36,12 +36,6 @@
 
 ?> 在渗透测试中，信息搜集（特指外部信息搜集）是一个非常重要的环节。”知己知彼，百战不殆“，搜集足够的信息，可以提高渗透测试成功的概率。
 
-
-
-
-
-
-
 | 技巧                     | 子内容                 | 示例工具 |
 | ------------------------ | ---------------------- | -------- |
    | 主动扫描                 | IP块扫描<br />漏洞扫描 |          |
@@ -68,6 +62,9 @@
 masscan -p1-65535 
 
 ## 搜集受害者身份信息
+
+- Google hacking
+- github
 
 ## 搜集受害者网络信息
 
@@ -99,10 +96,6 @@ PENTESTER LAND，[Subdomains Enumeration Cheat Sheet](https://pentester.land/che
 - 天眼查
 - 企查查
 
-## 通过网络钓鱼搜集信息
-
-## 从非公开源搜集信息
-
 ## 从公开技术数据库搜集信息
 
 ## 搜集公开网站/域
@@ -116,4 +109,6 @@ PENTESTER LAND，[Subdomains Enumeration Cheat Sheet](https://pentester.land/che
 [WHOIS](https://whois.icann.org/zh/%E5%85%B3%E4%BA%8E-whois)
 
 - [站长之家Whois查询](https://whois.chinaz.com/)
+
+
 
