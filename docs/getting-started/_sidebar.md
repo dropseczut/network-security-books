@@ -13,6 +13,7 @@
   * PHP
 - **渗透测试入门教程**
   - [渗透测试](/getting-started/pentest/)
+  - 信息搜集
   - [搭建基础环境]()
     - 打造基于Firefox浏览器的渗透利器
     - DVWA
