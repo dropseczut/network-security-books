@@ -3,8 +3,8 @@
 - [前端基础](#)
 - [HTTP协议](HTTP)
 - [网站运作原理](#)
-- [MySQL数据库基础](#)
-- **搭建漏洞环境**
+- [SQL基础](SQL)
+- **环境准备**
 - [搭建WAMP运行环境](setup-wamp)
 - [搭建DVWA漏洞环境](setup-dvwa)
 - [搭建SQLi Labs漏洞环境](setup-sqli-labs)
