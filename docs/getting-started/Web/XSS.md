@@ -4,7 +4,7 @@
 
 在OWASP Top 10 2017中，XSS攻击位于第7位。
 
-![Cross-site scripting](https://portswigger.net/web-security/images/cross-site-scripting.svg)
+![Cross-site scripting](../../../assets/img/cross-site-scripting.svg)
 
 ## 漏洞原理
 
