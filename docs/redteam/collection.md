@@ -68,7 +68,9 @@ masscan -p1-65535
 
 ## 搜集受害者网络信息
 
-子域名
+### 域名信息查询（WHOIS）
+HWOIS原始数据包含联系数据（包括注册人联系方式、管理人联系方式、技术人员联系方式）和有关注册商、域名状态和重要日期等信息。
+### 子域名
 
 收集子域名的方法主要有
 
@@ -76,6 +78,7 @@ masscan -p1-65535
 - DNS历史解析
 - SSL证书
   - https://crt.sh/
+  - https://search.censys.io/certificates?q=
 - 搜索引擎
   - site:example.com
   - [ZoomEye](https://www.zoomeye.org/)
